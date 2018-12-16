@@ -1,2 +1,2 @@
 # imgproc
-Examples of image processing using kernels
+Пример реализации плгоритма поиска границ в изображении на Java.
